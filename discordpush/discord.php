@@ -178,7 +178,7 @@ class Discord {
                         "url" => $avatarUrl
                     ),
                     "author" => array(
-                        "name" => "rutorrent-discord"
+                        "name" => "Seedbox-Reporter"
                     ),
                     "fields" => $fields
                 )
